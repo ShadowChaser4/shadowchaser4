@@ -10,7 +10,7 @@ Computer Engineer from IOE, Purwanchal Campus 🇳🇵 · I build full-stack web
 
 - 🔭 Working on full-stack web projects across the whole stack
 - 🌱 Deepening knowledge in cloud infra, distributed systems & backend architecture
-- 📬 **kushalacharya53@gmail.com**
+- 📬 **mail@kushalacharya.info.np**
 - 📍 Hetauda, Nepal
 
 ---
