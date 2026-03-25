@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-Computer Engineer from IOE, Purwanchal Campus 🇳🇵 · I build full-stack web applications — clean APIs, thoughtful backends, and UIs that don't suck. Currently sharpening my cloud and infra skills alongside product work.
+Backend-focused full-stack engineer building scalable web applications and cloud-native services. Computer Engineer from IOE, Purwanchal Campus 🇳🇵.
 
 - 🔭 Working on full-stack web projects across the whole stack
 - 🌱 Deepening knowledge in cloud infra, distributed systems & backend architecture
@@ -17,20 +17,25 @@ Computer Engineer from IOE, Purwanchal Campus 🇳🇵 · I build full-stack web
 
 ### 🛠️ Tech Stack
 
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
 **Frontend**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Remix](https://img.shields.io/badge/Remix-000000?style=flat&logo=remix&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 **Backend**
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Databases & Storage**
 
@@ -39,14 +44,18 @@ Computer Engineer from IOE, Purwanchal Campus 🇳🇵 · I build full-stack web
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 
-**Cloud & Infra**
+**Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonrds&logoColor=white)
+![Route53](https://img.shields.io/badge/Route53-8C4FFF?style=flat&logo=amazonroute53&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![ECR](https://img.shields.io/badge/ECR-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=flat&logo=amazonsqs&logoColor=white)
+![ElastiCache](https://img.shields.io/badge/Elasticache-C925D1?style=flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-
 
 <div align="center">
   <a href="https://twitter.com/kausheeeee"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
