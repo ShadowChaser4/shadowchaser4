@@ -2,7 +2,7 @@
 
 # Kushal Acharya
 
-**Full-Stack Engineer · TypeScript · Go · Python**
+**Full-Stack Engineer · TypeScript · Python · Go**
 
 Backend-leaning generalist — React frontends to distributed cloud infrastructure
 
