@@ -53,7 +53,13 @@ Interested in distributed systems, API design, and cloud-native architecture. Co
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShadowChaser4&hide_border=true&background=00000000&stroke=dddddd&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=888888&dates=888888" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com?user=ShadowChaser4&theme=dark&hide_border=true&background=00000000&stroke=444444&ring=888888&fire=888888&currStreakLabel=888888&sideLabels=888888&dates=666666" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com?user=ShadowChaser4&theme=default&hide_border=true&background=00000000&stroke=dddddd&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=888888&dates=888888" />
+    <img src="https://streak-stats.demolab.com?user=ShadowChaser4&theme=default&hide_border=true" />
+  </picture>
 </div>
 
 ---
