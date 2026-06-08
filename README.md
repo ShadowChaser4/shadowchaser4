@@ -1,7 +1,6 @@
 <div align="center">
 
 # Kushal Acharya
-
 **Full-Stack Engineer · TypeScript · Python · Go**
 
 Backend-leaning generalist — React frontends to distributed cloud infrastructure
@@ -51,14 +50,13 @@ Interested in distributed systems, API design, and cloud-native architecture. Co
 
 ## GitHub Stats
 
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com?user=ShadowChaser4&theme=dark&hide_border=true&background=00000000&stroke=444444&ring=888888&fire=888888&currStreakLabel=888888&sideLabels=888888&dates=666666" />
+      srcset="https://streak-stats.demolab.com?user=ShadowChaser4&theme=dark&hide_border=true&background=161B22&stroke=30363D&ring=6E7681&fire=6E7681&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
     <source media="(prefers-color-scheme: light)"
-      srcset="https://streak-stats.demolab.com?user=ShadowChaser4&theme=default&hide_border=true&background=00000000&stroke=dddddd&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=888888&dates=888888" />
-    <img src="https://streak-stats.demolab.com?user=ShadowChaser4&theme=default&hide_border=true" />
+      srcset="https://streak-stats.demolab.com?user=ShadowChaser4&theme=default&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=24292F&fire=24292F&currStreakLabel=24292F&sideLabels=57606A&dates=57606A&currStreakNum=24292F&sideNums=24292F" />
+    <img src="https://streak-stats.demolab.com?user=ShadowChaser4&theme=default&hide_border=true&background=FFFFFF" />
   </picture>
 </div>
 
@@ -68,4 +66,3 @@ Interested in distributed systems, API design, and cloud-native architecture. Co
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kausheeeee)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/sheerwood.gladiator.48)
-
