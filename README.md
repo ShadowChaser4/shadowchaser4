@@ -7,7 +7,6 @@ Backend-leaning generalist — React frontends to distributed cloud infrastructu
 
 📍 Hetauda, Nepal · 📬 mail@kushalacharya.info.np
 
-<img src="https://raw.githubusercontent.com/ShadowChaser4/shadowchaser4/main/assets/ascii-life.svg" alt="what I'm doing right now, Kathmandu time" />
 
 </div>
 
