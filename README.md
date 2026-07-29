@@ -1,63 +1,10 @@
-<div align="center">
+### Kushal Acharya
 
-# Kushal Acharya
-**Full-Stack Engineer · TypeScript · Python · Go**
+I build backend systems, working mostly in distributed architectures and fault-tolerant design.
 
-Backend-leaning generalist — React frontends to distributed cloud infrastructure
+**Stack:** Python · TypeScript · Go &nbsp;|&nbsp; Django · FastAPI · NestJS &nbsp;|&nbsp; AWS (Lambda, SQS, EventBridge, RDS) · Docker &nbsp;|&nbsp; PostgreSQL · Redis
 
-📍 Hetauda, Nepal · 📬 mail@kushalacharya.info.np
+**Currently exploring:** distributed systems security, incident response infrastructure, cloud-native forensics, applied AI
 
-
-</div>
-
----
-
-## About
-
-Full-stack engineer with a backend focus — building production web applications from React/Next.js frontends through to Go and Node.js services, infrastructure on AWS.
-
-Interested in distributed systems, API design, and cloud-native architecture. Comfortable owning a feature end-to-end across the stack.
-
----
-
-## Focus areas
-
-| | |
-|---|---|
-| **Full-stack delivery** | Schema to UI — backend services, APIs, and frontend in one loop |
-| **Cloud infrastructure** | AWS-native: compute, storage, queues, caching, DNS, containers |
-| **Backend systems** | Distributed architecture, async patterns, scalable service design |
-
----
-
-## Tech Stack
-
-**Languages**
-`TypeScript` `Go` `Python`
-
-**Frontend**
-`Next.js` `React` `Remix`
-
-**Backend**
-`Go` `NestJS` `FastAPI` `Django` `Node.js`
-
-**Databases & Storage**
-`PostgreSQL` `MongoDB` `Redis` `Supabase`
-
-**Cloud & Infrastructure**
-`AWS` `EC2` `S3` `RDS` `Lambda` `SQS` `ElastiCache` `ECR` `Route53` `Docker`
-
----
-
-## GitHub Stats
-
-<div align="center">
- <img src="https://streak-stats.demolab.com?user=ShadowChaser4&theme=github-dark&hide_border=true" />
-</div>
-
----
-
-## Connect
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kausheeeee)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/sheerwood.gladiator.48)
+**Writing:** [kushalacharya.info.np/writing](https://kushalacharya.info.np/writing)
+**Contact:** mail@kushalacharya.info.np
