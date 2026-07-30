@@ -1,16 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="620" height="240" viewBox="0 0 620 240">
   <rect width="100%" height="100%" fill="#0d1117" rx="10"/>
-  <text x="30" y="34" fill="#58a6ff" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" font-weight="bold">DAY · building stuff</text>
-  <text x="590" y="34" fill="#8b949e" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" text-anchor="end">16:55 NPT · Kathmandu</text>
+  <text x="30" y="34" fill="#58a6ff" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" font-weight="bold">EVENING · music & chill</text>
+  <text x="590" y="34" fill="#8b949e" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" text-anchor="end">18:52 NPT · Kathmandu</text>
   <line x1="30" y1="46" x2="590" y2="46" stroke="#21262d" stroke-width="1"/>
-<text x="30" y="88" fill="#39d353" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" xml:space="preserve">   ┌───────────────────────────┐</text>
-<text x="30" y="104" fill="#39d353" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" xml:space="preserve">   │ $ go build ./...          │</text>
-<text x="30" y="120" fill="#39d353" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" xml:space="preserve">   │ compiling services...     │</text>
-<text x="30" y="136" fill="#39d353" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" xml:space="preserve">   │ [██████████████░░░░] 78%  │</text>
-<text x="30" y="152" fill="#39d353" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" xml:space="preserve">   │ churning the machine</text>
-<text x="30" y="168" fill="#39d353" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" xml:space="preserve">   └───────────────────────────┘</text>
+<text x="30" y="88" fill="#39d353" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" xml:space="preserve">      ♪   ♫      chill playlist     ♫   ♪</text>
+<text x="30" y="104" fill="#39d353" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" xml:space="preserve">        (  ~~~ lofi beats loop ~~~  )</text>
+<text x="30" y="120" fill="#39d353" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" xml:space="preserve">           o        o        o</text>
+<text x="30" y="136" fill="#39d353" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" xml:space="preserve">          /|\      /|\      /|\</text>
+<text x="30" y="152" fill="#39d353" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" xml:space="preserve">          / \      / \      / \</text>
 
-  <rect x="470" y="102" width="9" height="14" fill="#39d353">
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/>
-  </rect>
+  <text x="90" y="73" fill="#58a6ff" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16">
+    ♪
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="1.6s" begin="0s" repeatCount="indefinite"/>
+  </text>
+  <text x="300" y="73" fill="#58a6ff" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16">
+    ♪
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="1.6s" begin="0.4s" repeatCount="indefinite"/>
+  </text>
+  <text x="500" y="73" fill="#58a6ff" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16">
+    ♪
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="1.6s" begin="0.8s" repeatCount="indefinite"/>
+  </text>
 </svg>
