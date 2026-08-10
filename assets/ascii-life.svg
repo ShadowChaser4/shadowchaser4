@@ -1,16 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="620" height="240" viewBox="0 0 620 240">
   <rect width="100%" height="100%" fill="#0d1117" rx="10"/>
-  <text x="30" y="34" fill="#58a6ff" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" font-weight="bold">NIGHT · learning</text>
-  <text x="590" y="34" fill="#8b949e" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" text-anchor="end">21:46 NPT · Kathmandu</text>
+  <text x="30" y="34" fill="#58a6ff" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" font-weight="bold">SLEEP · lights off</text>
+  <text x="590" y="34" fill="#8b949e" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" text-anchor="end">23:11 NPT · Kathmandu</text>
   <line x1="30" y1="46" x2="590" y2="46" stroke="#21262d" stroke-width="1"/>
-<text x="30" y="88" fill="#39d353" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" xml:space="preserve">      ________________________</text>
-<text x="30" y="104" fill="#39d353" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" xml:space="preserve">     |  reading docs &amp; papers  |</text>
-<text x="30" y="120" fill="#39d353" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" xml:space="preserve">     |  (o_o)  one more page..  |</text>
-<text x="30" y="136" fill="#39d353" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" xml:space="preserve">     |________________________|</text>
-<text x="30" y="152" fill="#39d353" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" xml:space="preserve">        taking notes ...</text>
+<text x="30" y="88" fill="#39d353" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" xml:space="preserve">               ________</text>
+<text x="30" y="104" fill="#39d353" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" xml:space="preserve">              |        |</text>
+<text x="30" y="120" fill="#39d353" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" xml:space="preserve">              | (-_-)  |</text>
+<text x="30" y="136" fill="#39d353" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" xml:space="preserve">              |________|</text>
+<text x="30" y="152" fill="#39d353" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" xml:space="preserve">           back at it tomorrow</text>
 
-  <text x="252" y="113" fill="#39d353" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14">
-    _
-    <animate attributeName="opacity" values="1;0;1" dur="2.6s" repeatCount="indefinite"/>
+  <text x="330" y="108" fill="#8b949e" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" opacity="0">
+    Z
+    <animate attributeName="opacity" values="0;0.9;0" dur="3s" begin="0s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 10,-24" dur="3s" begin="0s" repeatCount="indefinite"/>
+  </text>
+  <text x="350" y="108" fill="#8b949e" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" opacity="0">
+    Z
+    <animate attributeName="opacity" values="0;0.9;0" dur="3s" begin="0.9s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 10,-24" dur="3s" begin="0.9s" repeatCount="indefinite"/>
+  </text>
+  <text x="370" y="108" fill="#8b949e" style="font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" opacity="0">
+    Z
+    <animate attributeName="opacity" values="0;0.9;0" dur="3s" begin="1.8s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 10,-24" dur="3s" begin="1.8s" repeatCount="indefinite"/>
   </text>
 </svg>
